@@ -1,7 +1,7 @@
 #include "helpers.h"
 #include <math.h>
 
-// "helpers.h" is not included in this respository 
+// "helpers.h" is not included in this repository 
 
 // Convert image to grayscale
 void grayscale(int height, int width, RGBTRIPLE image[height][width])
